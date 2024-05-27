@@ -14,7 +14,7 @@ Bu proje, React kullanarak bir yapılacaklar listesi (Todo List) uygulaması olu
 Bu projeyi çalıştırmak için, öncelikle depoyu klonlayın ve bağımlılıkları yükleyin:
 
 ```bash
-git clone https://github.com/kullaniciadi/TodoList--React.git
+git clone https://github.com/dursuninel/TodoList--React.git
 cd TodoList--React
 npm install
 ```
